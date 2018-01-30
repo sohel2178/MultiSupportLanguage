@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiSupportLanguage</string>
+
+    <string name="my_text">My Name is Sohel</string>
+    <string name="button_text">বাংলায় দেখুন</string>
+
+
+</resources>
